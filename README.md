@@ -1,7 +1,5 @@
-# Agencia Andina CRM (maqueta PHP)
-
-Pequeña maqueta sin funcionalidad de un CRM para una empresa de turismo. Hecha en PHP "puro y duro", lista para correr con el servidor embebido de PHP.
-
+# Maqueta php de agencia
+Pequeña maqueta sin funcionalidad de un CRM para una empresa de turismo.
 ## Cómo ejecutar
 1) Requisitos: PHP 8+ instalado.
 2) En la terminal, ubícate en esta carpeta y ejecuta:
@@ -14,5 +12,4 @@ Pequeña maqueta sin funcionalidad de un CRM para una empresa de turismo. Hecha 
 - views/layout/    → Header y footer
 - views/pages/     → Vistas de cada sección (estáticas)
 - assets/css/      → Estilos
-
-> Todo es estático / de demostración. Los botones de acción están deshabilitados a propósito.
+#
